@@ -1,0 +1,337 @@
+Cargo;UF;Partido;Nr.;Candidato;Votos Nominais;Situação;%/Válidos;Coligação
+Presidente;ZZ;PSDB;45;FERNANDO HENRIQUE CARDOSO;13,848;Eleito;66.208;PPB / PTB / PFL / PSD / PSDB
+Presidente;AP;PSDB;45;FERNANDO HENRIQUE CARDOSO;68,277;Eleito;42.324;PPB / PTB / PFL / PSD / PSDB
+Presidente;RR;PSDB;45;FERNANDO HENRIQUE CARDOSO;71,768;Eleito;61.924;PPB / PTB / PFL / PSD / PSDB
+Presidente;AC;PSDB;45;FERNANDO HENRIQUE CARDOSO;90,363;Eleito;46.801;PPB / PTB / PFL / PSD / PSDB
+Presidente;TO;PSDB;45;FERNANDO HENRIQUE CARDOSO;265,393;Eleito;66.678;PPB / PTB / PFL / PSD / PSDB
+Presidente;SE;PSDB;45;FERNANDO HENRIQUE CARDOSO;297,243;Eleito;47.370;PPB / PTB / PFL / PSD / PSDB
+Presidente;RO;PSDB;45;FERNANDO HENRIQUE CARDOSO;323,743;Eleito;66.405;PPB / PTB / PFL / PSD / PSDB
+Presidente;DF;PSDB;45;FERNANDO HENRIQUE CARDOSO;391,201;Eleito;40.449;PPB / PTB / PFL / PSD / PSDB
+Presidente;AL;PSDB;45;FERNANDO HENRIQUE CARDOSO;394,873;Eleito;54.794;PPB / PTB / PFL / PSD / PSDB
+Presidente;AM;PSDB;45;FERNANDO HENRIQUE CARDOSO;452,076;Eleito;54.677;PPB / PTB / PFL / PSD / PSDB
+Presidente;PI;PSDB;45;FERNANDO HENRIQUE CARDOSO;482,649;Eleito;48.090;PPB / PTB / PFL / PSD / PSDB
+Presidente;MS;PSDB;45;FERNANDO HENRIQUE CARDOSO;520,471;Eleito;61.256;PPB / PTB / PFL / PSD / PSDB
+Presidente;RN;PSDB;45;FERNANDO HENRIQUE CARDOSO;525,842;Eleito;50.719;PPB / PTB / PFL / PSD / PSDB
+Presidente;PB;PSDB;45;FERNANDO HENRIQUE CARDOSO;541,067;Eleito;45.259;PPB / PTB / PFL / PSD / PSDB
+Presidente;MT;PSDB;45;FERNANDO HENRIQUE CARDOSO;663,773;Eleito;73.098;PPB / PTB / PFL / PSD / PSDB
+Presidente;MA;PSDB;45;FERNANDO HENRIQUE CARDOSO;736,042;Eleito;48.625;PPB / PTB / PFL / PSD / PSDB
+Presidente;CE;PSDB;45;FERNANDO HENRIQUE CARDOSO;804,969;Eleito;30.306;PPB / PTB / PFL / PSD / PSDB
+Presidente;ES;PSDB;45;FERNANDO HENRIQUE CARDOSO;814,535;Eleito;64.748;PPB / PTB / PFL / PSD / PSDB
+Presidente;PA;PSDB;45;FERNANDO HENRIQUE CARDOSO;1,020,868;Eleito;56.815;PPB / PTB / PFL / PSD / PSDB
+Presidente;GO;PSDB;45;FERNANDO HENRIQUE CARDOSO;1,247,510;Eleito;65.957;PPB / PTB / PFL / PSD / PSDB
+Presidente;SC;PSDB;45;FERNANDO HENRIQUE CARDOSO;1,255,253;Eleito;49.427;PPB / PTB / PFL / PSD / PSDB
+Presidente;PE;PSDB;45;FERNANDO HENRIQUE CARDOSO;1,637,394;Eleito;57.224;PPB / PTB / PFL / PSD / PSDB
+Presidente;BA;PSDB;45;FERNANDO HENRIQUE CARDOSO;1,977,643;Eleito;50.918;PPB / PTB / PFL / PSD / PSDB
+Presidente;RS;PSDB;45;FERNANDO HENRIQUE CARDOSO;2,036,805;Eleito;40.599;PPB / PTB / PFL / PSD / PSDB
+Presidente;PR;PSDB;45;FERNANDO HENRIQUE CARDOSO;2,492,531;Eleito;59.249;PPB / PTB / PFL / PSD / PSDB
+Presidente;RJ;PSDB;45;FERNANDO HENRIQUE CARDOSO;2,848,277;Eleito;42.276;PPB / PTB / PFL / PSD / PSDB
+Presidente;MG;PSDB;45;FERNANDO HENRIQUE CARDOSO;4,225,240;Eleito;55.677;PPB / PTB / PFL / PSD / PSDB
+Presidente;SP;PSDB;45;FERNANDO HENRIQUE CARDOSO;9,736,728;Eleito;59.886;PPB / PTB / PFL / PSD / PSDB
+Presidente;ZZ;PSDC;27;JOSÉ MARIA EYMAEL;17;Não eleito;0.081;(sem coligação)
+Presidente;ZZ;PSC;20;SERGIO BUENO;23;Não eleito;0.11;(sem coligação)
+Presidente;RR;PSDC;27;JOSÉ MARIA EYMAEL;26;Não eleito;0.022;(sem coligação)
+Presidente;ZZ;PSN;31;VASCO AZEVEDO NETO;34;Não eleito;0.163;(sem coligação)
+Presidente;RR;PSC;20;SERGIO BUENO;40;Não eleito;0.035;(sem coligação)
+Presidente;RR;PSN;31;VASCO AZEVEDO NETO;42;Não eleito;0.036;(sem coligação)
+Presidente;ZZ;PSTU;16;JOSÉ MARIA DE ALMEIDA;45;Não eleito;0.215;(sem coligação)
+Presidente;AP;PSDC;27;JOSÉ MARIA EYMAEL;60;Não eleito;0.037;(sem coligação)
+Presidente;ZZ;PMN;33;IVAN MOACYR DA FROTA;61;Não eleito;0.292;(sem coligação)
+Presidente;RR;PSTU;16;JOSÉ MARIA DE ALMEIDA;75;Não eleito;0.065;(sem coligação)
+Presidente;ZZ;PTN;19;THEREZA TINAJERO RUIZ;85;Não eleito;0.406;(sem coligação)
+Presidente;ZZ;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;86;Não eleito;0.411;(sem coligação)
+Presidente;AP;PSN;31;VASCO AZEVEDO NETO;102;Não eleito;0.063;(sem coligação)
+Presidente;ZZ;PV;43;ALFREDO HÉLIO SYRKIS;118;Não eleito;0.564;(sem coligação)
+Presidente;RR;PMN;33;IVAN MOACYR DA FROTA;119;Não eleito;0.103;(sem coligação)
+Presidente;RR;PV;43;ALFREDO HÉLIO SYRKIS;121;Não eleito;0.104;(sem coligação)
+Presidente;AP;PMN;33;IVAN MOACYR DA FROTA;129;Não eleito;0.08;(sem coligação)
+Presidente;RR;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;171;Não eleito;0.148;(sem coligação)
+Presidente;AP;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;187;Não eleito;0.116;(sem coligação)
+Presidente;AP;PSC;20;SERGIO BUENO;226;Não eleito;0.14;(sem coligação)
+Presidente;AC;PSC;20;SERGIO BUENO;283;Não eleito;0.147;(sem coligação)
+Presidente;ZZ;PRONA;56;ENEAS FERREIRA CARNEIRO;307;Não eleito;1.468;(sem coligação)
+Presidente;AP;PV;43;ALFREDO HÉLIO SYRKIS;324;Não eleito;0.201;(sem coligação)
+Presidente;AL;PSDC;27;JOSÉ MARIA EYMAEL;371;Não eleito;0.051;(sem coligação)
+Presidente;RR;PTN;19;THEREZA TINAJERO RUIZ;442;Não eleito;0.381;(sem coligação)
+Presidente;AP;PSTU;16;JOSÉ MARIA DE ALMEIDA;445;Não eleito;0.276;(sem coligação)
+Presidente;DF;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;455;Não eleito;0.047;(sem coligação)
+Presidente;AL;PSC;20;SERGIO BUENO;467;Não eleito;0.065;(sem coligação)
+Presidente;AC;PTN;19;THEREZA TINAJERO RUIZ;467;Não eleito;0.242;(sem coligação)
+Presidente;DF;PSN;31;VASCO AZEVEDO NETO;487;Não eleito;0.05;(sem coligação)
+Presidente;AC;PSDC;27;JOSÉ MARIA EYMAEL;508;Não eleito;0.263;(sem coligação)
+Presidente;AP;PTN;19;THEREZA TINAJERO RUIZ;588;Não eleito;0.364;(sem coligação)
+Presidente;AC;PSN;31;VASCO AZEVEDO NETO;603;Não eleito;0.312;(sem coligação)
+Presidente;RO;PSN;31;VASCO AZEVEDO NETO;607;Não eleito;0.125;(sem coligação)
+Presidente;AC;PSTU;16;JOSÉ MARIA DE ALMEIDA;655;Não eleito;0.339;(sem coligação)
+Presidente;TO;PSC;20;SERGIO BUENO;787;Não eleito;0.198;(sem coligação)
+Presidente;AC;PV;43;ALFREDO HÉLIO SYRKIS;808;Não eleito;0.418;(sem coligação)
+Presidente;MT;PSN;31;VASCO AZEVEDO NETO;810;Não eleito;0.089;(sem coligação)
+Presidente;MS;PSC;20;SERGIO BUENO;812;Não eleito;0.096;(sem coligação)
+Presidente;TO;PTN;19;THEREZA TINAJERO RUIZ;814;Não eleito;0.205;(sem coligação)
+Presidente;DF;PSTU;16;JOSÉ MARIA DE ALMEIDA;826;Não eleito;0.085;(sem coligação)
+Presidente;TO;PSN;31;VASCO AZEVEDO NETO;854;Não eleito;0.215;(sem coligação)
+Presidente;DF;PSDC;27;JOSÉ MARIA EYMAEL;908;Não eleito;0.094;(sem coligação)
+Presidente;AL;PTN;19;THEREZA TINAJERO RUIZ;915;Não eleito;0.127;(sem coligação)
+Presidente;AM;PSN;31;VASCO AZEVEDO NETO;959;Não eleito;0.116;(sem coligação)
+Presidente;AC;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;972;Não eleito;0.503;(sem coligação)
+Presidente;RO;PV;43;ALFREDO HÉLIO SYRKIS;1,067;Não eleito;0.219;(sem coligação)
+Presidente;RO;PSDC;27;JOSÉ MARIA EYMAEL;1,069;Não eleito;0.219;(sem coligação)
+Presidente;AL;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;1,111;Não eleito;0.154;(sem coligação)
+Presidente;MT;PSC;20;SERGIO BUENO;1,114;Não eleito;0.123;(sem coligação)
+Presidente;AL;PSN;31;VASCO AZEVEDO NETO;1,173;Não eleito;0.163;(sem coligação)
+Presidente;TO;PSDC;27;JOSÉ MARIA EYMAEL;1,195;Não eleito;0.3;(sem coligação)
+Presidente;AM;PSC;20;SERGIO BUENO;1,209;Não eleito;0.146;(sem coligação)
+Presidente;RO;PSTU;16;JOSÉ MARIA DE ALMEIDA;1,232;Não eleito;0.253;(sem coligação)
+Presidente;AL;PV;43;ALFREDO HÉLIO SYRKIS;1,317;Não eleito;0.183;(sem coligação)
+Presidente;DF;PMN;33;IVAN MOACYR DA FROTA;1,368;Não eleito;0.141;(sem coligação)
+Presidente;AL;PSTU;16;JOSÉ MARIA DE ALMEIDA;1,385;Não eleito;0.192;(sem coligação)
+Presidente;ZZ;PPS;23;CIRO FERREIRA GOMES;1,407;Não eleito;6.727;PL / PPS / PAN
+Presidente;DF;PSC;20;SERGIO BUENO;1,409;Não eleito;0.146;(sem coligação)
+Presidente;MS;PSN;31;VASCO AZEVEDO NETO;1,425;Não eleito;0.168;(sem coligação)
+Presidente;AC;PMN;33;IVAN MOACYR DA FROTA;1,461;Não eleito;0.757;(sem coligação)
+Presidente;RO;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;1,469;Não eleito;0.301;(sem coligação)
+Presidente;MT;PSDC;27;JOSÉ MARIA EYMAEL;1,591;Não eleito;0.175;(sem coligação)
+Presidente;RO;PMN;33;IVAN MOACYR DA FROTA;1,597;Não eleito;0.328;(sem coligação)
+Presidente;TO;PV;43;ALFREDO HÉLIO SYRKIS;1,624;Não eleito;0.408;(sem coligação)
+Presidente;MS;PSDC;27;JOSÉ MARIA EYMAEL;1,665;Não eleito;0.196;(sem coligação)
+Presidente;TO;PSTU;16;JOSÉ MARIA DE ALMEIDA;1,677;Não eleito;0.421;(sem coligação)
+Presidente;DF;PV;43;ALFREDO HÉLIO SYRKIS;1,739;Não eleito;0.18;(sem coligação)
+Presidente;RO;PTN;19;THEREZA TINAJERO RUIZ;1,793;Não eleito;0.368;(sem coligação)
+Presidente;MT;PV;43;ALFREDO HÉLIO SYRKIS;1,924;Não eleito;0.212;(sem coligação)
+Presidente;TO;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;1,938;Não eleito;0.487;(sem coligação)
+Presidente;MT;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;1,957;Não eleito;0.216;(sem coligação)
+Presidente;MT;PSTU;16;JOSÉ MARIA DE ALMEIDA;2,024;Não eleito;0.223;(sem coligação)
+Presidente;AM;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;2,161;Não eleito;0.261;(sem coligação)
+Presidente;RN;PSC;20;SERGIO BUENO;2,175;Não eleito;0.21;(sem coligação)
+Presidente;SE;PSN;31;VASCO AZEVEDO NETO;2,190;Não eleito;0.349;(sem coligação)
+Presidente;SE;PSC;20;SERGIO BUENO;2,198;Não eleito;0.35;(sem coligação)
+Presidente;MT;PTN;19;THEREZA TINAJERO RUIZ;2,198;Não eleito;0.242;(sem coligação)
+Presidente;PB;PSC;20;SERGIO BUENO;2,200;Não eleito;0.184;(sem coligação)
+Presidente;SE;PSDC;27;JOSÉ MARIA EYMAEL;2,205;Não eleito;0.351;(sem coligação)
+Presidente;MS;PSTU;16;JOSÉ MARIA DE ALMEIDA;2,207;Não eleito;0.26;(sem coligação)
+Presidente;SE;PTN;19;THEREZA TINAJERO RUIZ;2,238;Não eleito;0.357;(sem coligação)
+Presidente;DF;PTN;19;THEREZA TINAJERO RUIZ;2,240;Não eleito;0.232;(sem coligação)
+Presidente;ES;PSC;20;SERGIO BUENO;2,263;Não eleito;0.18;(sem coligação)
+Presidente;MS;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;2,312;Não eleito;0.272;(sem coligação)
+Presidente;ES;PSN;31;VASCO AZEVEDO NETO;2,336;Não eleito;0.186;(sem coligação)
+Presidente;RR;PRONA;56;ENEAS FERREIRA CARNEIRO;2,353;Não eleito;2.030;(sem coligação)
+Presidente;TO;PMN;33;IVAN MOACYR DA FROTA;2,434;Não eleito;0.612;(sem coligação)
+Presidente;GO;PSN;31;VASCO AZEVEDO NETO;2,471;Não eleito;0.131;(sem coligação)
+Presidente;ES;PSDC;27;JOSÉ MARIA EYMAEL;2,505;Não eleito;0.199;(sem coligação)
+Presidente;AM;PV;43;ALFREDO HÉLIO SYRKIS;2,506;Não eleito;0.303;(sem coligação)
+Presidente;MS;PV;43;ALFREDO HÉLIO SYRKIS;2,508;Não eleito;0.295;(sem coligação)
+Presidente;ES;PSTU;16;JOSÉ MARIA DE ALMEIDA;2,631;Não eleito;0.209;(sem coligação)
+Presidente;AM;PSDC;27;JOSÉ MARIA EYMAEL;2,689;Não eleito;0.325;(sem coligação)
+Presidente;RN;PSN;31;VASCO AZEVEDO NETO;2,699;Não eleito;0.26;(sem coligação)
+Presidente;SE;PV;43;ALFREDO HÉLIO SYRKIS;2,721;Não eleito;0.434;(sem coligação)
+Presidente;AM;PTN;19;THEREZA TINAJERO RUIZ;2,726;Não eleito;0.33;(sem coligação)
+Presidente;AM;PSTU;16;JOSÉ MARIA DE ALMEIDA;2,765;Não eleito;0.334;(sem coligação)
+Presidente;GO;PSC;20;SERGIO BUENO;2,842;Não eleito;0.15;(sem coligação)
+Presidente;PB;PTN;19;THEREZA TINAJERO RUIZ;2,885;Não eleito;0.241;(sem coligação)
+Presidente;SC;PSC;20;SERGIO BUENO;2,962;Não eleito;0.117;(sem coligação)
+Presidente;ES;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;2,969;Não eleito;0.236;(sem coligação)
+Presidente;MS;PTN;19;THEREZA TINAJERO RUIZ;3,025;Não eleito;0.356;(sem coligação)
+Presidente;PA;PSN;31;VASCO AZEVEDO NETO;3,028;Não eleito;0.169;(sem coligação)
+Presidente;SC;PSN;31;VASCO AZEVEDO NETO;3,085;Não eleito;0.121;(sem coligação)
+Presidente;RN;PTN;19;THEREZA TINAJERO RUIZ;3,146;Não eleito;0.303;(sem coligação)
+Presidente;MS;PMN;33;IVAN MOACYR DA FROTA;3,193;Não eleito;0.376;(sem coligação)
+Presidente;ES;PTN;19;THEREZA TINAJERO RUIZ;3,210;Não eleito;0.255;(sem coligação)
+Presidente;AP;PRONA;56;ENEAS FERREIRA CARNEIRO;3,237;Não eleito;2.007;(sem coligação)
+Presidente;PA;PSC;20;SERGIO BUENO;3,273;Não eleito;0.182;(sem coligação)
+Presidente;SE;PSTU;16;JOSÉ MARIA DE ALMEIDA;3,279;Não eleito;0.523;(sem coligação)
+Presidente;AM;PMN;33;IVAN MOACYR DA FROTA;3,308;Não eleito;0.4;(sem coligação)
+Presidente;ES;PV;43;ALFREDO HÉLIO SYRKIS;3,470;Não eleito;0.276;(sem coligação)
+Presidente;MT;PMN;33;IVAN MOACYR DA FROTA;3,520;Não eleito;0.388;(sem coligação)
+Presidente;GO;PSDC;27;JOSÉ MARIA EYMAEL;3,569;Não eleito;0.189;(sem coligação)
+Presidente;PB;PSN;31;VASCO AZEVEDO NETO;3,663;Não eleito;0.306;(sem coligação)
+Presidente;PI;PSC;20;SERGIO BUENO;3,770;Não eleito;0.376;(sem coligação)
+Presidente;RN;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;3,849;Não eleito;0.371;(sem coligação)
+Presidente;PI;PTN;19;THEREZA TINAJERO RUIZ;3,960;Não eleito;0.395;(sem coligação)
+Presidente;AL;PMN;33;IVAN MOACYR DA FROTA;4,064;Não eleito;0.564;(sem coligação)
+Presidente;CE;PTN;19;THEREZA TINAJERO RUIZ;4,113;Não eleito;0.155;(sem coligação)
+Presidente;MA;PTN;19;THEREZA TINAJERO RUIZ;4,221;Não eleito;0.279;(sem coligação)
+Presidente;PI;PSN;31;VASCO AZEVEDO NETO;4,251;Não eleito;0.424;(sem coligação)
+Presidente;SE;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;4,296;Não eleito;0.685;(sem coligação)
+Presidente;PB;PSDC;27;JOSÉ MARIA EYMAEL;4,309;Não eleito;0.36;(sem coligação)
+Presidente;RO;PSC;20;SERGIO BUENO;4,409;Não eleito;0.904;(sem coligação)
+Presidente;RS;PSC;20;SERGIO BUENO;4,517;Não eleito;0.09;(sem coligação)
+Presidente;RN;PSTU;16;JOSÉ MARIA DE ALMEIDA;4,553;Não eleito;0.439;(sem coligação)
+Presidente;MA;PSN;31;VASCO AZEVEDO NETO;4,638;Não eleito;0.306;(sem coligação)
+Presidente;PI;PV;43;ALFREDO HÉLIO SYRKIS;4,878;Não eleito;0.486;(sem coligação)
+Presidente;MA;PSC;20;SERGIO BUENO;4,883;Não eleito;0.323;(sem coligação)
+Presidente;ZZ;PT;13;LUIZ INACIO LULA DA SILVA;4,885;Não eleito;23.355;PDT / PT / PCB / PSB / PC do B
+Presidente;RS;PSN;31;VASCO AZEVEDO NETO;4,889;Não eleito;0.097;(sem coligação)
+Presidente;SC;PSDC;27;JOSÉ MARIA EYMAEL;4,892;Não eleito;0.193;(sem coligação)
+Presidente;RN;PSDC;27;JOSÉ MARIA EYMAEL;4,945;Não eleito;0.477;(sem coligação)
+Presidente;GO;PTN;19;THEREZA TINAJERO RUIZ;5,142;Não eleito;0.272;(sem coligação)
+Presidente;SC;PSTU;16;JOSÉ MARIA DE ALMEIDA;5,253;Não eleito;0.207;(sem coligação)
+Presidente;PB;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;5,363;Não eleito;0.449;(sem coligação)
+Presidente;PA;PTN;19;THEREZA TINAJERO RUIZ;5,387;Não eleito;0.3;(sem coligação)
+Presidente;PA;PSDC;27;JOSÉ MARIA EYMAEL;5,432;Não eleito;0.302;(sem coligação)
+Presidente;GO;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;5,468;Não eleito;0.289;(sem coligação)
+Presidente;PA;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;5,723;Não eleito;0.319;(sem coligação)
+Presidente;SC;PTN;19;THEREZA TINAJERO RUIZ;5,770;Não eleito;0.227;(sem coligação)
+Presidente;RN;PV;43;ALFREDO HÉLIO SYRKIS;5,804;Não eleito;0.56;(sem coligação)
+Presidente;CE;PSC;20;SERGIO BUENO;5,986;Não eleito;0.225;(sem coligação)
+Presidente;CE;PSN;31;VASCO AZEVEDO NETO;6,030;Não eleito;0.227;(sem coligação)
+Presidente;CE;PSDC;27;JOSÉ MARIA EYMAEL;6,160;Não eleito;0.232;(sem coligação)
+Presidente;PE;PSN;31;VASCO AZEVEDO NETO;6,233;Não eleito;0.218;(sem coligação)
+Presidente;PI;PSDC;27;JOSÉ MARIA EYMAEL;6,346;Não eleito;0.632;(sem coligação)
+Presidente;PA;PV;43;ALFREDO HÉLIO SYRKIS;6,473;Não eleito;0.36;(sem coligação)
+Presidente;CE;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;6,473;Não eleito;0.244;(sem coligação)
+Presidente;AL;PRONA;56;ENEAS FERREIRA CARNEIRO;6,664;Não eleito;0.925;(sem coligação)
+Presidente;RJ;PSN;31;VASCO AZEVEDO NETO;6,676;Não eleito;0.099;(sem coligação)
+Presidente;SE;PMN;33;IVAN MOACYR DA FROTA;6,818;Não eleito;1.087;(sem coligação)
+Presidente;GO;PSTU;16;JOSÉ MARIA DE ALMEIDA;6,894;Não eleito;0.364;(sem coligação)
+Presidente;ES;PMN;33;IVAN MOACYR DA FROTA;6,945;Não eleito;0.552;(sem coligação)
+Presidente;MA;PSDC;27;JOSÉ MARIA EYMAEL;7,030;Não eleito;0.464;(sem coligação)
+Presidente;PE;PTN;19;THEREZA TINAJERO RUIZ;7,035;Não eleito;0.246;(sem coligação)
+Presidente;TO;PRONA;56;ENEAS FERREIRA CARNEIRO;7,131;Não eleito;1.792;(sem coligação)
+Presidente;SC;PMN;33;IVAN MOACYR DA FROTA;7,159;Não eleito;0.282;(sem coligação)
+Presidente;RO;PRONA;56;ENEAS FERREIRA CARNEIRO;7,218;Não eleito;1.481;(sem coligação)
+Presidente;PR;PSN;31;VASCO AZEVEDO NETO;7,263;Não eleito;0.173;(sem coligação)
+Presidente;PR;PSDC;27;JOSÉ MARIA EYMAEL;7,275;Não eleito;0.173;(sem coligação)
+Presidente;PI;PSTU;16;JOSÉ MARIA DE ALMEIDA;7,336;Não eleito;0.731;(sem coligação)
+Presidente;GO;PV;43;ALFREDO HÉLIO SYRKIS;7,456;Não eleito;0.394;(sem coligação)
+Presidente;PB;PMN;33;IVAN MOACYR DA FROTA;7,483;Não eleito;0.626;(sem coligação)
+Presidente;RN;PMN;33;IVAN MOACYR DA FROTA;7,962;Não eleito;0.768;(sem coligação)
+Presidente;RJ;PSTU;16;JOSÉ MARIA DE ALMEIDA;8,319;Não eleito;0.123;(sem coligação)
+Presidente;PE;PV;43;ALFREDO HÉLIO SYRKIS;8,337;Não eleito;0.291;(sem coligação)
+Presidente;CE;PV;43;ALFREDO HÉLIO SYRKIS;8,398;Não eleito;0.316;(sem coligação)
+Presidente;PB;PV;43;ALFREDO HÉLIO SYRKIS;8,411;Não eleito;0.704;(sem coligação)
+Presidente;PI;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;8,451;Não eleito;0.842;(sem coligação)
+Presidente;RJ;PSDC;27;JOSÉ MARIA EYMAEL;8,581;Não eleito;0.127;(sem coligação)
+Presidente;BA;PTN;19;THEREZA TINAJERO RUIZ;8,787;Não eleito;0.226;(sem coligação)
+Presidente;SC;PV;43;ALFREDO HÉLIO SYRKIS;8,797;Não eleito;0.346;(sem coligação)
+Presidente;GO;PMN;33;IVAN MOACYR DA FROTA;8,801;Não eleito;0.465;(sem coligação)
+Presidente;SC;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;8,931;Não eleito;0.352;(sem coligação)
+Presidente;PA;PSTU;16;JOSÉ MARIA DE ALMEIDA;8,952;Não eleito;0.498;(sem coligação)
+Presidente;MA;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;8,961;Não eleito;0.592;(sem coligação)
+Presidente;CE;PSTU;16;JOSÉ MARIA DE ALMEIDA;9,136;Não eleito;0.344;(sem coligação)
+Presidente;PR;PSC;20;SERGIO BUENO;9,243;Não eleito;0.22;(sem coligação)
+Presidente;PE;PSC;20;SERGIO BUENO;9,435;Não eleito;0.33;(sem coligação)
+Presidente;RS;PSTU;16;JOSÉ MARIA DE ALMEIDA;9,454;Não eleito;0.188;(sem coligação)
+Presidente;MA;PSTU;16;JOSÉ MARIA DE ALMEIDA;9,534;Não eleito;0.63;(sem coligação)
+Presidente;RS;PTN;19;THEREZA TINAJERO RUIZ;9,650;Não eleito;0.192;(sem coligação)
+Presidente;PB;PSTU;16;JOSÉ MARIA DE ALMEIDA;10,039;Não eleito;0.84;(sem coligação)
+Presidente;PR;PSTU;16;JOSÉ MARIA DE ALMEIDA;10,113;Não eleito;0.24;(sem coligação)
+Presidente;AC;PRONA;56;ENEAS FERREIRA CARNEIRO;10,362;Não eleito;5.367;(sem coligação)
+Presidente;BA;PSN;31;VASCO AZEVEDO NETO;10,669;Não eleito;0.275;(sem coligação)
+Presidente;PA;PMN;33;IVAN MOACYR DA FROTA;10,772;Não eleito;0.599;(sem coligação)
+Presidente;CE;PMN;33;IVAN MOACYR DA FROTA;10,852;Não eleito;0.409;(sem coligação)
+Presidente;RS;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;10,862;Não eleito;0.217;(sem coligação)
+Presidente;PR;PMN;33;IVAN MOACYR DA FROTA;11,013;Não eleito;0.262;(sem coligação)
+Presidente;MA;PV;43;ALFREDO HÉLIO SYRKIS;11,015;Não eleito;0.728;(sem coligação)
+Presidente;RJ;PSC;20;SERGIO BUENO;11,041;Não eleito;0.164;(sem coligação)
+Presidente;MA;PMN;33;IVAN MOACYR DA FROTA;11,295;Não eleito;0.746;(sem coligação)
+Presidente;BA;PSDC;27;JOSÉ MARIA EYMAEL;11,305;Não eleito;0.291;(sem coligação)
+Presidente;SE;PRONA;56;ENEAS FERREIRA CARNEIRO;11,503;Não eleito;1.833;(sem coligação)
+Presidente;PE;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;11,779;Não eleito;0.412;(sem coligação)
+Presidente;RS;PV;43;ALFREDO HÉLIO SYRKIS;11,886;Não eleito;0.237;(sem coligação)
+Presidente;MS;PRONA;56;ENEAS FERREIRA CARNEIRO;11,981;Não eleito;1.410;(sem coligação)
+Presidente;MT;PRONA;56;ENEAS FERREIRA CARNEIRO;12,012;Não eleito;1.323;(sem coligação)
+Presidente;PR;PTN;19;THEREZA TINAJERO RUIZ;12,273;Não eleito;0.292;(sem coligação)
+Presidente;CE;PRONA;56;ENEAS FERREIRA CARNEIRO;12,294;Não eleito;0.463;(sem coligação)
+Presidente;PI;PRONA;56;ENEAS FERREIRA CARNEIRO;12,497;Não eleito;1.245;(sem coligação)
+Presidente;RJ;PMN;33;IVAN MOACYR DA FROTA;12,596;Não eleito;0.187;(sem coligação)
+Presidente;PR;PV;43;ALFREDO HÉLIO SYRKIS;12,694;Não eleito;0.302;(sem coligação)
+Presidente;RS;PSDC;27;JOSÉ MARIA EYMAEL;12,880;Não eleito;0.257;(sem coligação)
+Presidente;PE;PSDC;27;JOSÉ MARIA EYMAEL;13,002;Não eleito;0.454;(sem coligação)
+Presidente;PI;PMN;33;IVAN MOACYR DA FROTA;13,034;Não eleito;1.299;(sem coligação)
+Presidente;DF;PRONA;56;ENEAS FERREIRA CARNEIRO;13,092;Não eleito;1.354;(sem coligação)
+Presidente;PR;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;13,350;Não eleito;0.317;(sem coligação)
+Presidente;PE;PSTU;16;JOSÉ MARIA DE ALMEIDA;13,970;Não eleito;0.488;(sem coligação)
+Presidente;BA;PV;43;ALFREDO HÉLIO SYRKIS;13,987;Não eleito;0.36;(sem coligação)
+Presidente;MG;PSN;31;VASCO AZEVEDO NETO;14,139;Não eleito;0.186;(sem coligação)
+Presidente;MG;PSC;20;SERGIO BUENO;14,230;Não eleito;0.188;(sem coligação)
+Presidente;RJ;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;14,272;Não eleito;0.212;(sem coligação)
+Presidente;RN;PRONA;56;ENEAS FERREIRA CARNEIRO;14,427;Não eleito;1.392;(sem coligação)
+Presidente;BA;PSTU;16;JOSÉ MARIA DE ALMEIDA;15,069;Não eleito;0.388;(sem coligação)
+Presidente;RJ;PV;43;ALFREDO HÉLIO SYRKIS;15,185;Não eleito;0.225;(sem coligação)
+Presidente;BA;PSC;20;SERGIO BUENO;15,688;Não eleito;0.404;(sem coligação)
+Presidente;RS;PMN;33;IVAN MOACYR DA FROTA;15,796;Não eleito;0.315;(sem coligação)
+Presidente;PB;PRONA;56;ENEAS FERREIRA CARNEIRO;15,889;Não eleito;1.329;(sem coligação)
+Presidente;AM;PRONA;56;ENEAS FERREIRA CARNEIRO;16,093;Não eleito;1.946;(sem coligação)
+Presidente;SP;PSC;20;SERGIO BUENO;17,084;Não eleito;0.105;(sem coligação)
+Presidente;SP;PSN;31;VASCO AZEVEDO NETO;17,647;Não eleito;0.109;(sem coligação)
+Presidente;PE;PMN;33;IVAN MOACYR DA FROTA;18,635;Não eleito;0.651;(sem coligação)
+Presidente;ES;PRONA;56;ENEAS FERREIRA CARNEIRO;18,836;Não eleito;1.497;(sem coligação)
+Presidente;RJ;PTN;19;THEREZA TINAJERO RUIZ;18,967;Não eleito;0.282;(sem coligação)
+Presidente;BA;PMN;33;IVAN MOACYR DA FROTA;19,284;Não eleito;0.496;(sem coligação)
+Presidente;MG;PSDC;27;JOSÉ MARIA EYMAEL;19,839;Não eleito;0.261;(sem coligação)
+Presidente;RR;PPS;23;CIRO FERREIRA GOMES;20,138;Não eleito;17.376;PL / PPS / PAN
+Presidente;BA;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;20,292;Não eleito;0.522;(sem coligação)
+Presidente;RR;PT;13;LUIZ INACIO LULA DA SILVA;20,601;Não eleito;17.775;PDT / PT / PCB / PSB / PC do B
+Presidente;MA;PRONA;56;ENEAS FERREIRA CARNEIRO;24,910;Não eleito;1.646;(sem coligação)
+Presidente;SP;PMN;33;IVAN MOACYR DA FROTA;25,335;Não eleito;0.156;(sem coligação)
+Presidente;AP;PPS;23;CIRO FERREIRA GOMES;25,349;Não eleito;15.714;PL / PPS / PAN
+Presidente;MG;PTN;19;THEREZA TINAJERO RUIZ;25,673;Não eleito;0.338;(sem coligação)
+Presidente;MG;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;25,916;Não eleito;0.342;(sem coligação)
+Presidente;AC;PPS;23;CIRO FERREIRA GOMES;26,909;Não eleito;13.937;PL / PPS / PAN
+Presidente;SP;PTN;19;THEREZA TINAJERO RUIZ;28,388;Não eleito;0.175;(sem coligação)
+Presidente;MG;PV;43;ALFREDO HÉLIO SYRKIS;28,466;Não eleito;0.375;(sem coligação)
+Presidente;SP;PT do B;70;JOÃO DE DEUS BARBOSA DE JESUS;29,141;Não eleito;0.179;(sem coligação)
+Presidente;MG;PSTU;16;JOSÉ MARIA DE ALMEIDA;29,689;Não eleito;0.391;(sem coligação)
+Presidente;PA;PRONA;56;ENEAS FERREIRA CARNEIRO;30,538;Não eleito;1.700;(sem coligação)
+Presidente;PE;PRONA;56;ENEAS FERREIRA CARNEIRO;32,393;Não eleito;1.132;(sem coligação)
+Presidente;GO;PRONA;56;ENEAS FERREIRA CARNEIRO;34,222;Não eleito;1.809;(sem coligação)
+Presidente;SP;PSTU;16;JOSÉ MARIA DE ALMEIDA;35,102;Não eleito;0.216;(sem coligação)
+Presidente;MG;PMN;33;IVAN MOACYR DA FROTA;36,302;Não eleito;0.478;(sem coligação)
+Presidente;RO;PPS;23;CIRO FERREIRA GOMES;39,398;Não eleito;8.081;PL / PPS / PAN
+Presidente;SP;PV;43;ALFREDO HÉLIO SYRKIS;40,949;Não eleito;0.252;(sem coligação)
+Presidente;SP;PSDC;27;JOSÉ MARIA EYMAEL;41,457;Não eleito;0.255;(sem coligação)
+Presidente;TO;PPS;23;CIRO FERREIRA GOMES;47,566;Não eleito;11.951;PL / PPS / PAN
+Presidente;SC;PRONA;56;ENEAS FERREIRA CARNEIRO;55,133;Não eleito;2.171;(sem coligação)
+Presidente;AC;PT;13;LUIZ INACIO LULA DA SILVA;59,690;Não eleito;30.914;PDT / PT / PCB / PSB / PC do B
+Presidente;PR;PRONA;56;ENEAS FERREIRA CARNEIRO;61,334;Não eleito;1.458;(sem coligação)
+Presidente;AP;PT;13;LUIZ INACIO LULA DA SILVA;62,394;Não eleito;38.678;PDT / PT / PCB / PSB / PC do B
+Presidente;TO;PT;13;LUIZ INACIO LULA DA SILVA;66,607;Não eleito;16.735;PDT / PT / PCB / PSB / PC do B
+Presidente;MT;PPS;23;CIRO FERREIRA GOMES;67,668;Não eleito;7.452;PL / PPS / PAN
+Presidente;SE;PPS;23;CIRO FERREIRA GOMES;71,233;Não eleito;11.352;PL / PPS / PAN
+Presidente;MS;PPS;23;CIRO FERREIRA GOMES;89,951;Não eleito;10.587;PL / PPS / PAN
+Presidente;BA;PRONA;56;ENEAS FERREIRA CARNEIRO;90,574;Não eleito;2.332;(sem coligação)
+Presidente;RO;PT;13;LUIZ INACIO LULA DA SILVA;103,927;Não eleito;21.317;PDT / PT / PCB / PSB / PC do B
+Presidente;AM;PPS;23;CIRO FERREIRA GOMES;128,811;Não eleito;15.579;PL / PPS / PAN
+Presidente;ES;PPS;23;CIRO FERREIRA GOMES;134,675;Não eleito;10.705;PL / PPS / PAN
+Presidente;AL;PPS;23;CIRO FERREIRA GOMES;146,729;Não eleito;20.361;PL / PPS / PAN
+Presidente;MT;PT;13;LUIZ INACIO LULA DA SILVA;149,462;Não eleito;16.460;PDT / PT / PCB / PSB / PC do B
+Presidente;MG;PRONA;56;ENEAS FERREIRA CARNEIRO;156,826;Não eleito;2.067;(sem coligação)
+Presidente;AL;PT;13;LUIZ INACIO LULA DA SILVA;161,584;Não eleito;22.422;PDT / PT / PCB / PSB / PC do B
+Presidente;RS;PRONA;56;ENEAS FERREIRA CARNEIRO;161,750;Não eleito;3.224;(sem coligação)
+Presidente;PA;PPS;23;CIRO FERREIRA GOMES;165,670;Não eleito;9.220;PL / PPS / PAN
+Presidente;PI;PPS;23;CIRO FERREIRA GOMES;185,997;Não eleito;18.532;PL / PPS / PAN
+Presidente;PB;PPS;23;CIRO FERREIRA GOMES;191,878;Não eleito;16.050;PL / PPS / PAN
+Presidente;RN;PPS;23;CIRO FERREIRA GOMES;193,496;Não eleito;18.663;PL / PPS / PAN
+Presidente;GO;PPS;23;CIRO FERREIRA GOMES;195,851;Não eleito;10.355;PL / PPS / PAN
+Presidente;MS;PT;13;LUIZ INACIO LULA DA SILVA;210,120;Não eleito;24.730;PDT / PT / PCB / PSB / PC do B
+Presidente;AM;PT;13;LUIZ INACIO LULA DA SILVA;211,507;Não eleito;25.581;PDT / PT / PCB / PSB / PC do B
+Presidente;PE;PPS;23;CIRO FERREIRA GOMES;212,168;Não eleito;7.415;PL / PPS / PAN
+Presidente;SE;PT;13;LUIZ INACIO LULA DA SILVA;221,565;Não eleito;35.310;PDT / PT / PCB / PSB / PC do B
+Presidente;RJ;PRONA;56;ENEAS FERREIRA CARNEIRO;233,921;Não eleito;3.472;(sem coligação)
+Presidente;MA;PPS;23;CIRO FERREIRA GOMES;246,268;Não eleito;16.269;PL / PPS / PAN
+Presidente;SC;PPS;23;CIRO FERREIRA GOMES;252,659;Não eleito;9.949;PL / PPS / PAN
+Presidente;ES;PT;13;LUIZ INACIO LULA DA SILVA;263,636;Não eleito;20.957;PDT / PT / PCB / PSB / PC do B
+Presidente;DF;PPS;23;CIRO FERREIRA GOMES;265,838;Não eleito;27.487;PL / PPS / PAN
+Presidente;RN;PT;13;LUIZ INACIO LULA DA SILVA;267,883;Não eleito;25.838;PDT / PT / PCB / PSB / PC do B
+Presidente;PI;PT;13;LUIZ INACIO LULA DA SILVA;270,465;Não eleito;26.949;PDT / PT / PCB / PSB / PC do B
+Presidente;RS;PPS;23;CIRO FERREIRA GOMES;277,866;Não eleito;5.539;PL / PPS / PAN
+Presidente;DF;PT;13;LUIZ INACIO LULA DA SILVA;287,579;Não eleito;29.735;PDT / PT / PCB / PSB / PC do B
+Presidente;BA;PPS;23;CIRO FERREIRA GOMES;327,920;Não eleito;8.443;PL / PPS / PAN
+Presidente;GO;PT;13;LUIZ INACIO LULA DA SILVA;371,175;Não eleito;19.624;PDT / PT / PCB / PSB / PC do B
+Presidente;SP;PRONA;56;ENEAS FERREIRA CARNEIRO;389,592;Não eleito;2.396;(sem coligação)
+Presidente;PR;PPS;23;CIRO FERREIRA GOMES;400,966;Não eleito;9.531;PL / PPS / PAN
+Presidente;PB;PT;13;LUIZ INACIO LULA DA SILVA;402,293;Não eleito;33.651;PDT / PT / PCB / PSB / PC do B
+Presidente;MA;PT;13;LUIZ INACIO LULA DA SILVA;444,912;Não eleito;29.392;PDT / PT / PCB / PSB / PC do B
+Presidente;PA;PT;13;LUIZ INACIO LULA DA SILVA;530,722;Não eleito;29.536;PDT / PT / PCB / PSB / PC do B
+Presidente;RJ;PPS;23;CIRO FERREIRA GOMES;708,279;Não eleito;10.513;PL / PPS / PAN
+Presidente;CE;PT;13;LUIZ INACIO LULA DA SILVA;872,290;Não eleito;32.841;PDT / PT / PCB / PSB / PC do B
+Presidente;MG;PPS;23;CIRO FERREIRA GOMES;883,377;Não eleito;11.641;PL / PPS / PAN
+Presidente;PE;PT;13;LUIZ INACIO LULA DA SILVA;890,971;Não eleito;31.138;PDT / PT / PCB / PSB / PC do B
+Presidente;CE;PPS;23;CIRO FERREIRA GOMES;909,402;Não eleito;34.238;PL / PPS / PAN
+Presidente;SC;PT;13;LUIZ INACIO LULA DA SILVA;929,698;Não eleito;36.608;PDT / PT / PCB / PSB / PC do B
+Presidente;PR;PT;13;LUIZ INACIO LULA DA SILVA;1,168,853;Não eleito;27.784;PDT / PT / PCB / PSB / PC do B
+Presidente;SP;PPS;23;CIRO FERREIRA GOMES;1,208,718;Não eleito;7.434;PL / PPS / PAN
+Presidente;BA;PT;13;LUIZ INACIO LULA DA SILVA;1,372,790;Não eleito;35.345;PDT / PT / PCB / PSB / PC do B
+Presidente;MG;PT;13;LUIZ INACIO LULA DA SILVA;2,129,100;Não eleito;28.056;PDT / PT / PCB / PSB / PC do B
+Presidente;RS;PT;13;LUIZ INACIO LULA DA SILVA;2,460,551;Não eleito;49.045;PDT / PT / PCB / PSB / PC do B
+Presidente;RJ;PT;13;LUIZ INACIO LULA DA SILVA;2,851,274;Não eleito;42.320;PDT / PT / PCB / PSB / PC do B
+Presidente;SP;PT;13;LUIZ INACIO LULA DA SILVA;4,688,677;Não eleito;28.838;PDT / PT / PCB / PSB / PC do B
